@@ -1,0 +1,18 @@
+.wrap {
+    margin: 5rem 5rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    border: solid 1px red;
+}
+
+.experience__container {
+    background: var(--color-bg-variant);
+    width: 50%;
+}
+
+.experience__container h2, h4 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

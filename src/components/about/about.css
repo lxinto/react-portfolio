@@ -6,6 +6,10 @@
     gap: 15%;
 }
 
+.about__container h4 {
+    text-align: left;
+}
+
 .about__me {
     width: 100%;
     aspect-ratio: 1/1;
@@ -15,6 +19,8 @@
     place-items: center;
 }
 
+
+
 /* ============================ RESPONSIVE FOR MEDIUM DEVICES ======================= */
 
 @media screen and (max-width: 1024px) {
@@ -23,6 +29,10 @@
         gap: 0;
         top: 0;
         transform: none;
+    }
+
+    .about__container h4 {
+        text-align: center;
     }
 
     .about__me {
@@ -44,7 +54,10 @@
         top: 0;
         transform: none;
     }
-
+   
+    .about__container h4 {
+        text-align: center;
+    }
     .about__me {
         width: 50%;
         margin: 1rem auto 1rem;
