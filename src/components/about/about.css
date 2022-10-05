@@ -1,0 +1,56 @@
+.about__container {
+    display: grid;
+    top: 50%;
+    transform: translateY(25%);
+    grid-template-columns: 35% 50%;
+    gap: 15%;
+}
+
+.about__me {
+    width: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+
+    display: grid;
+    place-items: center;
+}
+
+/* ============================ RESPONSIVE FOR MEDIUM DEVICES ======================= */
+
+@media screen and (max-width: 1024px) {
+    .about__container {
+        grid-template-columns: 1fr;
+        gap: 0;
+        top: 0;
+        transform: none;
+    }
+
+    .about__me {
+        width: 50%;
+        margin: 2rem auto 2rem;
+    }
+    .about__content h1 {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+/* ============================ RESPONSIVE FOR SMALL DEVICES ======================= */
+
+@media screen and (max-width: 600px) {
+    .about__container {
+        grid-template-columns: 1fr;
+        gap: 0;
+        top: 0;
+        transform: none;
+    }
+
+    .about__me {
+        width: 50%;
+        margin: 1rem auto 1rem;
+    }
+    .about__content h1 {
+        display: flex;
+        justify-content: center;
+    }
+}
