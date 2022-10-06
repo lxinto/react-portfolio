@@ -67,6 +67,9 @@ header {
         height: 100vh;
         padding-top: 6rem;
     }
+    .me > img {
+        margin-top: 5rem;
+    }
 }
 
 /* ============================ RESPONSIVE FOR SMALL DEVICES ======================= */
@@ -77,4 +80,8 @@ header {
         padding-top: 4rem;
     }
     .header__socials, .scroll__down {display: none;}
+
+    .me > img {
+        margin-top: 1rem;
+    }
 }
