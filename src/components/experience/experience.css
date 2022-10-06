@@ -15,7 +15,7 @@
 
 .experience__container > div:hover {
     background-color: transparent;
-    border: var(--color-primary-variant);
+    border-color: var(--color-primary-variant);
     cursor: default;
     transition: all 600ms ease;
 }
