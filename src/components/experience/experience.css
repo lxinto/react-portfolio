@@ -18,7 +18,6 @@
     border: var(--color-primary-variant);
     cursor: default;
     transition: all 600ms ease;
-    text-align: center;
 }
 
 .experience__container > div h4 {
