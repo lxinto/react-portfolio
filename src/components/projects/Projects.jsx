@@ -19,7 +19,7 @@ const data = [
   {
     id: 1,
     image: landing,
-    title: "Europabet Landing Page",
+    title: "Europebet Landing Page",
     github: "https://github.com/lxinto/europabet-landing-page",
     livedemo: "https://lxinto.github.io/europabet-landing-page/",
   },

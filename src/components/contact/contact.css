@@ -1,0 +1,51 @@
+.container.contact__container {
+    height: 65vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    margin: 15rem 10rem 0 10rem;
+}
+
+.contact__options {
+    display: flex;
+    gap: 7rem;
+}
+
+.contact__option {
+   background: var(--color-bg-variant);
+   padding: 1.2rem;
+   border-radius: 1rem;
+   text-align: center;
+   border: 1px solid transparent;
+   transition: var(--transition);
+   height: 10rem;
+   width: 20rem;
+}
+
+.contact__option a {
+    color: white;
+    text-decoration: underline;
+}
+
+/* ============================ RESPONSIVE FOR MEDIUM DEVICES ======================= */
+
+@media screen and (max-width: 1024px) {
+    .container.contact__container {
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+        padding-bottom: 10rem;
+        margin-bottom: 7rem;
+    }
+    .contact__options {
+        display: grid;
+        /* grid-template-columns:repeat(3, 1fr); */
+        gap: 1rem;
+    }
+}
+
+/* ============================ RESPONSIVE FOR SMALL DEVICES ======================= */
+
+@media screen and (max-width: 600px) {
+
+}
