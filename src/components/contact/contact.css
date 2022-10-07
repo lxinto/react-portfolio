@@ -3,12 +3,14 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     justify-content: center;
-    
+    align-items: center;
 }
 
 .contact__options {
     display: flex;
     position: relative;
+    justify-content: center;
+    align-items: center;
     left: 50%;
     transform: translateX(-50%);
     gap: 7rem;
@@ -38,6 +40,7 @@
     .container .contact__container {
         display: flex;
         justify-content: center;
+        align-items: center;
     }
     .contact__options {
         display: flex;
