@@ -8,7 +8,7 @@ const About = () => {
   let year = d.getFullYear();
   let born = 2000 
   function age() {
-    return year - born 
+    return year - born - 1
   }
  const myAge = age()
 
@@ -27,7 +27,7 @@ const About = () => {
           <h1>About me</h1>
           <br/>
           <h4>
-            Hey I'm Luka, {myAge} year old DevOps Engineer with a background in Front-End Development. <br/><br/>
+            Hey, I'm Luka, {myAge} year old DevOps Engineer with a background in Front-End Development. <br/><br/>
             My Journey in Tech started not too long ago but through many hours of hard work and dedication I got accepted to
             TBC IT Academy where I got to study about DevOps and gained experience working with Unix based systems, server administration 
             as well as technologies such as Docker, Kubernetes and so on. Other than DevOps I'm also experienced in Front-End Development with
