@@ -27,7 +27,7 @@ const Experience = () => {
             </article>
             <br />
             <article className='experience__details'>
-              <h4>I also have number of tech related certificates that you can view on my <a href="https://www.linkedin.com/in/khintibidzel/details/certifications/" target="_blank" rel="noreferrer">LinkedIn Profile</a> </h4>
+              <h4>I also have number of tech related certificates that you can view on my <a href="https://www.linkedin.com/in/khintibidzel/details/certifications/" target="_blank" rel="noreferrer" className='btn'>LinkedIn Profile</a> </h4>
             </article>
           </div>
         </div>
