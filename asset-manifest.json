@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.a03f7f47.css",
+    "main.css": "/react-portfolio/static/css/main.2bbe38f6.css",
     "main.js": "/react-portfolio/static/js/main.4bc3f7ab.js",
     "static/media/IMG_3560.png": "/react-portfolio/static/media/IMG_3560.9b1380af66dd9cc5dd19.png",
     "static/media/IMG_6855.jpg": "/react-portfolio/static/media/IMG_6855.2f9898024289cef7f553.jpg",
@@ -9,11 +9,11 @@
     "static/media/Luka-Khintibidze-CV.pdf": "/react-portfolio/static/media/Luka-Khintibidze-CV.c0c0af4dedfe18b950b0.pdf",
     "static/media/blackjack.png": "/react-portfolio/static/media/blackjack.883644d663729c079e0d.png",
     "index.html": "/react-portfolio/index.html",
-    "main.a03f7f47.css.map": "/react-portfolio/static/css/main.a03f7f47.css.map",
+    "main.2bbe38f6.css.map": "/react-portfolio/static/css/main.2bbe38f6.css.map",
     "main.4bc3f7ab.js.map": "/react-portfolio/static/js/main.4bc3f7ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.a03f7f47.css",
+    "static/css/main.2bbe38f6.css",
     "static/js/main.4bc3f7ab.js"
   ]
 }
