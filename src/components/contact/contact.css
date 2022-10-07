@@ -1,14 +1,19 @@
-.container.contact__container {
+.container .contact__container {
     height: 65vh;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     justify-content: center;
-    margin: 15rem 10rem 0 10rem;
+    
 }
 
 .contact__options {
     display: flex;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
     gap: 7rem;
+    margin-top: 15rem;
+    margin-bottom: 20rem;
 }
 
 .contact__option {
