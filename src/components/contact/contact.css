@@ -35,16 +35,17 @@
 /* ============================ RESPONSIVE FOR MEDIUM DEVICES ======================= */
 
 @media screen and (max-width: 1024px) {
-    .container.contact__container {
+    .container .contact__container {
         display: flex;
         justify-content: center;
-        margin: 0 auto;
-        padding-bottom: 10rem;
-        margin-bottom: 7rem;
     }
     .contact__options {
-        display: grid;
-        /* grid-template-columns:repeat(3, 1fr); */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 5rem;
+        margin-bottom: 7rem;
         gap: 1rem;
     }
 }
@@ -52,5 +53,10 @@
 /* ============================ RESPONSIVE FOR SMALL DEVICES ======================= */
 
 @media screen and (max-width: 600px) {
-
+    .container .contact__container {
+        justify-content: center;
+        margin: 0 auto;
+        padding-bottom: 5rem;
+        margin-bottom: 3rem;
+    }
 }
