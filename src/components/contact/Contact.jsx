@@ -7,7 +7,9 @@ import {BsLinkedin} from "react-icons/bs"
 const Contact = () => {
   return (
     <section id='contact'>
-        <h2>Contact Me!</h2>
+        <div>
+          <h2>Contact Me!</h2>
+        </div>
         <div className="container contact__container">
           <div className="contact__options">
             <article className="contact__option">
