@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bbe38f6.css",
+    "main.css": "/static/css/main.87ca0d95.css",
     "main.js": "/static/js/main.edd624f2.js",
     "static/media/IMG_3560.png": "/static/media/IMG_3560.9b1380af66dd9cc5dd19.png",
     "static/media/IMG_6855.jpg": "/static/media/IMG_6855.2f9898024289cef7f553.jpg",
@@ -9,11 +9,11 @@
     "static/media/Luka-Khintibidze-CV.pdf": "/static/media/Luka-Khintibidze-CV.34930167c8877c5ca05a.pdf",
     "static/media/blackjack.png": "/static/media/blackjack.883644d663729c079e0d.png",
     "index.html": "/index.html",
-    "main.2bbe38f6.css.map": "/static/css/main.2bbe38f6.css.map",
+    "main.87ca0d95.css.map": "/static/css/main.87ca0d95.css.map",
     "main.edd624f2.js.map": "/static/js/main.edd624f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bbe38f6.css",
+    "static/css/main.87ca0d95.css",
     "static/js/main.edd624f2.js"
   ]
 }
