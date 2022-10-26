@@ -31,6 +31,11 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
+
+.portfolio__item-cta a[href='#'] {
+    display: none;
+}
+
 div h2 {
     text-align: center;
     color: white;

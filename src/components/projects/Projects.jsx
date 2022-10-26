@@ -3,6 +3,10 @@ import "./projects.css"
 import landing from "../../assets/landing.png"
 import ecommerce from "../../assets/ecommerce.png"
 import blackjack from "../../assets/blackjack.png"
+import openshift from "../../assets/openshift.png"
+import canary from "../../assets/canary.png"
+import micro from "../../assets/micro.png"
+
 /* ----------------------- PROJECT DATA TEMPLATE -------------------
 
 {
@@ -18,20 +22,41 @@ import blackjack from "../../assets/blackjack.png"
 const data = [
   {
     id: 1,
+    image: openshift,
+    title: "App deployment on OpenShift",
+    github: "https://github.com/lxinto/openshift-istio",
+    livedemo: '#'
+  },
+  {
+    id: 2,
+    image: canary,
+    title: "Canary deployment with Istio",
+    github: "https://github.com/lxinto/canary-deployment-openshift-istio",
+    livedemo: "#",
+  },
+  {
+    id: 4,
     image: landing,
     title: "Europebet Landing Page",
     github: "https://github.com/lxinto/europabet-landing-page",
     livedemo: "https://lxinto.github.io/europabet-landing-page/",
   },
   {
-    id: 2,
+    id: 3,
+    image: micro,
+    title: "Kubernetes Microservice Architecture",
+    github: "https://github.com/lxinto/kubernetes-micro-services",
+    livedemo: "#",
+  },
+  {
+    id: 5,
     image: ecommerce,
     title: "React Ecommerce",
     github: "https://github.com/lxinto/react-ecommerce",
     livedemo: "https://lxinto.github.io/react-candle-shop/",
   },
   {
-    id: 3,
+    id: 6,
     image: blackjack,
     title: "Javascript BlackJack",
     github: "https://github.com/lxinto/javascript-BlackJack",
