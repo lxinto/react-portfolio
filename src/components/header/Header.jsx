@@ -3,7 +3,7 @@ import CTA from './CTA'
 import "./header.css"
 import me from "../../assets/IMG_3560.png"
 import HeaderSocials from './HeaderSocials'
-import {BsFillArrowDownCircleFill} from "react-icons/bs"
+import {AiFillSmile} from "react-icons/ai"
 
 
 const Header = () => {
@@ -19,7 +19,7 @@ const Header = () => {
         <div className="me">
           <img src={me} alt="me" />
         </div>
-        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target='_blank' className='scroll__down'><BsFillArrowDownCircleFill size="35px"/></a>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target='_blank' rel="noreferrer" className='scroll__down'><AiFillSmile size="35px"/></a>
       </div>
     </header>
   )
