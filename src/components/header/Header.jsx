@@ -19,7 +19,7 @@ const Header = () => {
         <div className="me">
           <img src={me} alt="me" />
         </div>
-        <a href="#contact" className='scroll__down'><BsFillArrowDownCircleFill size="35px"/></a>
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target='_blank' className='scroll__down'><BsFillArrowDownCircleFill size="35px"/></a>
       </div>
     </header>
   )
