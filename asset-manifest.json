@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.87ca0d95.css",
-    "main.js": "/static/js/main.edd624f2.js",
+    "main.css": "/static/css/main.65632521.css",
+    "main.js": "/static/js/main.132c995a.js",
     "static/media/IMG_3560.png": "/static/media/IMG_3560.9b1380af66dd9cc5dd19.png",
     "static/media/IMG_6855.jpg": "/static/media/IMG_6855.2f9898024289cef7f553.jpg",
     "static/media/landing.png": "/static/media/landing.5d65fdeaba1c8c6b0ffd.png",
     "static/media/ecommerce.png": "/static/media/ecommerce.f400600b7397a0d58abe.png",
     "static/media/Luka-Khintibidze-CV.pdf": "/static/media/Luka-Khintibidze-CV.34930167c8877c5ca05a.pdf",
-    "static/media/blackjack.png": "/static/media/blackjack.883644d663729c079e0d.png",
+    "static/media/openshift.png": "/static/media/openshift.a47d3c6182b8b31b6e50.png",
+    "static/media/micro.png": "/static/media/micro.ab23883a7faa68e74880.png",
+    "static/media/canary.png": "/static/media/canary.16350ceef2b2fe1d161e.png",
+    "static/media/blackjack.png": "/static/media/blackjack.d1c6a521b75dc48c0473.png",
     "index.html": "/index.html",
-    "main.87ca0d95.css.map": "/static/css/main.87ca0d95.css.map",
-    "main.edd624f2.js.map": "/static/js/main.edd624f2.js.map"
+    "main.65632521.css.map": "/static/css/main.65632521.css.map",
+    "main.132c995a.js.map": "/static/js/main.132c995a.js.map"
   },
   "entrypoints": [
-    "static/css/main.87ca0d95.css",
-    "static/js/main.edd624f2.js"
+    "static/css/main.65632521.css",
+    "static/js/main.132c995a.js"
   ]
 }
