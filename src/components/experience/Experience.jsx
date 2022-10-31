@@ -35,7 +35,7 @@ const Experience = () => {
           <article className='experience__details'>
               <h2>Experience</h2>
               <h3>
-                As of now, I have <mark>no relevant</mark> <mark> working experience in IT industry</mark> but
+                As of now, I have <mark>no relevant working experience in IT industry</mark> but
                 here are few places I've worked in the past.
               </h3>
             </article>
