@@ -27,17 +27,17 @@ const Experience = () => {
             </article>
             <br />
             <article className='experience__details'>
-              <h4>I also have number of tech related certificates that you can view on my <a href="https://www.linkedin.com/in/khintibidzel/details/certifications/" target="_blank" rel="noreferrer" className='btn'>LinkedIn Profile</a> </h4>
+              <h4>I also have number of tech related <mark>certificates</mark> that you can view on my <a href="https://www.linkedin.com/in/khintibidzel/details/certifications/" target="_blank" rel="noreferrer" className='btn'>LinkedIn Profile</a> </h4>
             </article>
           </div>
         </div>
         <div className="experience">
           <article className='experience__details'>
               <h2>Experience</h2>
-              <h4>
-                As of now, I have no relevant working experience in tech industry
-                but here are few places I've worked in the past.
-              </h4>
+              <h3>
+                As of now, I have <mark>no relevant</mark> <mark> working experience in IT industry</mark> but
+                here are few places I've worked in the past.
+              </h3>
             </article>
             <article className='experience__details'>
               <h4>Event Organizer Intern @ Chavchavadze Center</h4>

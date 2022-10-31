@@ -6,6 +6,7 @@ import blackjack from "../../assets/blackjack.png"
 import openshift from "../../assets/openshift.png"
 import canary from "../../assets/canary.png"
 import micro from "../../assets/micro.png"
+import helm from "../../assets/helm.jpg"
 
 /* ----------------------- PROJECT DATA TEMPLATE -------------------
 
@@ -32,6 +33,13 @@ const data = [
     image: canary,
     title: "Canary deployment with Istio",
     github: "https://github.com/lxinto/canary-deployment-openshift-istio",
+    livedemo: "#",
+  },
+  {
+    id: 7,
+    image: helm,
+    title: "Custom Helm Charts",
+    github: "https://github.com/lxinto/custom-helm-charts",
     livedemo: "#",
   },
   {
