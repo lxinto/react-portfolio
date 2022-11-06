@@ -31,8 +31,6 @@ const Contact = () => {
               <a href="https://www.linkedin.com/in/khintibidzel/" target="_blank" rel="noreferrer">Lets connect!</a>
             </article>
           </div>
-
-          <form action=""></form>
         </div>
     </section>
   )
