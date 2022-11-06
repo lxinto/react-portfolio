@@ -35,9 +35,11 @@ const Experience = () => {
           <article className='experience__details'>
               <h2>Experience</h2>
               <h3>
-                As of now, I have <mark>no relevant working experience in IT industry</mark> but
+                As of now, I have no relevant working experience in IT industry but
                 here are few places I've worked in the past.
               </h3>
+              <br/>
+              <br/>
             </article>
             <article className='experience__details'>
               <h4>Event Organizer Intern @ Chavchavadze Center</h4>
