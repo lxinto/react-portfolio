@@ -1,7 +1,7 @@
 import React from 'react'
 import CTA from './CTA'
 import "./header.css"
-import me from "../../assets/IMG_3560.png"
+import me from "../../assets/messenger.jpg"
 import HeaderSocials from './HeaderSocials'
 import {AiFillSmile} from "react-icons/ai"
 
