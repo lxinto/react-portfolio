@@ -7,6 +7,8 @@ import openshift from "../../assets/openshift.png"
 import canary from "../../assets/canary.png"
 import micro from "../../assets/micro.png"
 import helm from "../../assets/helm.jpg"
+import azure from "../../assets/azure_devops.png"
+import template from "../../assets/pipeline.png"
 
 /* ----------------------- PROJECT DATA TEMPLATE -------------------
 
@@ -21,6 +23,20 @@ import helm from "../../assets/helm.jpg"
 ----------------------------------------------------------------- */
 
 const data = [
+  {
+    id: 8,
+    image: azure,
+    title: ".NET API Build & Deploy Pipeline on Azure DevOps",
+    github: "https://github.com/lxinto/azure-pipeline-dotnet",
+    livedemo: "#",
+  },
+  {
+    id: 9,
+    image: template,
+    title: "Azure DevOps Pipeline Templating",
+    github: "https://github.com/lxinto/azure-pipeline-templating",
+    livedemo: "#",
+  },
   {
     id: 1,
     image: openshift,
