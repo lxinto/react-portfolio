@@ -34,21 +34,19 @@ const Experience = () => {
         <div className="experience">
           <article className='experience__details'>
               <h2>Experience</h2>
-              <h3>
-                As of now, I have no relevant working experience in IT industry but
-                here are few places I've worked in the past.
-              </h3>
+              <h4>DevOps Engineer @ TBC Bank</h4>
+              <small className='text-light'>2022, Dec. - Currently.  </small>
               <br/>
-              <br/>
+              <small className='text-light'>OpenShift, Docker, Linux, Azure DevOps, Helm Charts, etc.</small>
             </article>
-            <article className='experience__details'>
+            {/* <article className='experience__details'>
               <h4>Event Organizer Intern @ Chavchavadze Center</h4>
               <small className='text-light'>2019, Dec. - 2020, Jan. | Helped in planning of a 3 day even for the ambassador of Germany</small>
             </article>
             <article className='experience__details'>
               <h4>Marketing Specialist Intern @ Samtskhe-Javakheti DMO</h4>
               <small className='text-light'>2020, May. - 2020, Aug. | Helped in developing of new marketing campaign for Samtskhe-Javakheti's Destination Management Organization</small>
-            </article>
+            </article> */}
         </div>
       </div>
     </section>
